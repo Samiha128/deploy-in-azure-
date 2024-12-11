@@ -13,5 +13,5 @@ pandas
 tpot
 seaborn
 cloudpickle
-scikit-learn==0.20.0
+scikit-learn
 joblib
